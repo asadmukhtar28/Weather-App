@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_weather_list">Home</string>
+    <string name="title_weather_details">Dashboard</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
+</resources>
